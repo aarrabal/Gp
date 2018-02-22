@@ -1,0 +1,7 @@
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GespolPolicial\bin\Release\GespolPolicial.Test.dll
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GespolPolicial\bin\Release\GespolPolicial.Test.pdb
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GespolPolicial\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GespolPolicial\bin\Release\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GespolPolicial\obj\Release\GespolPolicial.test.csprojResolveAssemblyReference.cache
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GespolPolicial\obj\Release\GespolPolicial.Test.dll
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GespolPolicial\obj\Release\GespolPolicial.Test.pdb

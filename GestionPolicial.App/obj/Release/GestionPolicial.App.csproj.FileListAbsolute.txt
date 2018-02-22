@@ -1,0 +1,4 @@
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.App\bin\Release\GestionPolicial.App.dll
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.App\bin\Release\GestionPolicial.App.pdb
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.App\obj\Release\GestionPolicial.App.dll
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.App\obj\Release\GestionPolicial.App.pdb

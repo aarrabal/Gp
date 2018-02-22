@@ -1,0 +1,5 @@
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.App\bin\Debug\GestionPolicial.App.dll
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.App\bin\Debug\GestionPolicial.App.pdb
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.App\obj\Debug\GestionPolicial.App.csprojResolveAssemblyReference.cache
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.App\obj\Debug\GestionPolicial.App.dll
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.App\obj\Debug\GestionPolicial.App.pdb

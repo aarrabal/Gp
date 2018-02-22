@@ -1,0 +1,13 @@
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial\bin\Release\GestionPolicial.exe.config
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial\bin\Release\GestionPolicial.exe
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial\bin\Release\GestionPolicial.pdb
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial\obj\Release\MainWindow.g.cs
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial\obj\Release\App.g.cs
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial\obj\Release\GestionPolicial_MarkupCompile.cache
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial\obj\Release\GestionPolicial_MarkupCompile.lref
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial\obj\Release\MainWindow.baml
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial\obj\Release\GestionPolicial.g.resources
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial\obj\Release\GestionPolicial.Properties.Resources.resources
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial\obj\Release\GestionPolicial.csproj.GenerateResource.Cache
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial\obj\Release\GestionPolicial.exe
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial\obj\Release\GestionPolicial.pdb

@@ -1,0 +1,12 @@
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GespolPolicial\bin\Debug\GespolPolicial.Test.dll
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GespolPolicial\bin\Debug\GespolPolicial.Test.pdb
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GespolPolicial\obj\Debug\GespolPolicial.test.csprojResolveAssemblyReference.cache
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GespolPolicial\obj\Debug\GespolPolicial.Test.dll
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GespolPolicial\obj\Debug\GespolPolicial.Test.pdb
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GespolPolicial\bin\Debug\GestionPolicial.Domain.dll
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GespolPolicial\bin\Debug\GestionPolicial.Domain.pdb
+C:\Users\aarrabal\Documents\Visual Studio 2015\Projects\GestionPolicial\GespolPolicial\bin\Debug\GespolPolicial.Test.dll.config
+C:\Users\aarrabal\Documents\Visual Studio 2015\Projects\GestionPolicial\GespolPolicial\bin\Debug\EntityFramework.dll
+C:\Users\aarrabal\Documents\Visual Studio 2015\Projects\GestionPolicial\GespolPolicial\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aarrabal\Documents\Visual Studio 2015\Projects\GestionPolicial\GespolPolicial\bin\Debug\EntityFramework.xml
+C:\Users\aarrabal\Documents\Visual Studio 2015\Projects\GestionPolicial\GespolPolicial\bin\Debug\EntityFramework.SqlServer.xml

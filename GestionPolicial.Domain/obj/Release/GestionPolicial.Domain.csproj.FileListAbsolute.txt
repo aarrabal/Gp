@@ -1,0 +1,4 @@
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.Domain\bin\Release\GestionPolicial.Domain.dll
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.Domain\bin\Release\GestionPolicial.Domain.pdb
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.Domain\obj\Release\GestionPolicial.Domain.dll
+c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.Domain\obj\Release\GestionPolicial.Domain.pdb

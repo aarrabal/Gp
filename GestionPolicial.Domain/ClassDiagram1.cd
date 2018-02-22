@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GestionPolicial.Domain.Model.EntityBase">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\EntityBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestionPolicial.Domain.Model.Persona">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAAAAAAAQAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Persona.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="DocumentoIdentificacion" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="GestionPolicial.Domain.Model.Policia">
+    <Position X="5.75" Y="2.25" Width="1.5" />
+    <InheritanceLine Type="GestionPolicial.Domain.Model.Persona" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="4.75" Y="1.938" />
+        <Point X="6.5" Y="1.938" />
+        <Point X="6.5" Y="2.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Policia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestionPolicial.Domain.Model.Usuario">
+    <Position X="7.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAIAAAAAAAAA=</HashCode>
+      <FileName>Model\Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestionPolicial.Domain.Model.Detenido">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Model\Detenido.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="MotivoDetencion" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="GestionPolicial.Domain.Model.Documentos.Dni" Collapsed="true">
+    <Position X="1" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Documentos\Dni.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GestionPolicial.Domain.Model.Documentos.Nie" Collapsed="true">
+    <Position X="5.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Documentos\Nie.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GestionPolicial.Domain.Model.Documentos.Pasaporte" Collapsed="true">
+    <Position X="3.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Documentos\Pasaporte.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="GestionPolicial.Domain.Model.Documentos.IDocumentoIdentificacion">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Documentos\IDocumentoIdentificacion.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="GestionPolicial.Domain.Model.Motivo">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Model\Motivo.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
