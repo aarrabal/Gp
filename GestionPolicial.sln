@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionPolicial.Domain", "G
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionPolicial.Dal", "GestionPolicial.Dal\GestionPolicial.Dal.csproj", "{ED5E9814-2698-456C-B840-0211E6D00209}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionPolicial.App", "GestionPolicial.App\GestionPolicial.App.csproj", "{8DBEC64B-5208-4461-8999-814C935B8F20}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionPolicial.Application", "GestionPolicial.App\GestionPolicial.Application.csproj", "{8DBEC64B-5208-4461-8999-814C935B8F20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

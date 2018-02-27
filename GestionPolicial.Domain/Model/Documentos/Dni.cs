@@ -1,12 +1,14 @@
 ﻿using System;
+using System.ComponentModel.DataAnnotations;
 
 namespace GestionPolicial.Domain.Model.Documentos
 {
-    public class Dni : IDocumentoIdentificacion
+    public class Dni : DocumentoIdentificacionBase
     {
         public const string Correspondencia = "TRWAGMYFPDXBNJZSQVHLCKE";
         public const string Pais = "España";
         private string _numeroDoc;
+        [Key]
         public string NumeroDocumento
         {
             get { return _numeroDoc; }

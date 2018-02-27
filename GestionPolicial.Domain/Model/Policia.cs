@@ -6,8 +6,7 @@ namespace GestionPolicial.Domain.Model
     [Serializable]
     public class Policia:Persona
     {
-        public int NumeroPlaca;
-
+        public int NumeroPlaca { get; set; }
         public Policia()
         {
             

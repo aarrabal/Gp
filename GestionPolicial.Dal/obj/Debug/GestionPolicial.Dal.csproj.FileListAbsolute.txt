@@ -3,3 +3,10 @@ c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionP
 c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.Dal\obj\Debug\GestionPolicial.Dal.csprojResolveAssemblyReference.cache
 c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.Dal\obj\Debug\GestionPolicial.Dal.dll
 c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.Dal\obj\Debug\GestionPolicial.Dal.pdb
+C:\Users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.Dal\bin\Debug\GestionPolicial.Dal.dll.config
+C:\Users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.Dal\bin\Debug\EntityFramework.dll
+C:\Users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.Dal\bin\Debug\GestionPolicial.Domain.dll
+C:\Users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.Dal\bin\Debug\GestionPolicial.Domain.pdb
+C:\Users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.Dal\bin\Debug\EntityFramework.xml
+C:\Users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.Dal\bin\Debug\EntityFramework.SqlServer.xml

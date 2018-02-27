@@ -1,13 +1,14 @@
 ﻿using System;
+using System.ComponentModel.DataAnnotations;
 
 namespace GestionPolicial.Domain.Model.Documentos
 {
-    public class Nie : IDocumentoIdentificacion
+    public class Nie :  DocumentoIdentificacionBase
     {
         public const string Correspondencia = "TRWAGMYFPDXBNJZSQVHLCKE";
         public string Pais { get; set; }
         private string _numeroDoc;
-
+        [Key]
         public string NumeroDocumento
         {
             get { return _numeroDoc; }
@@ -85,5 +86,6 @@ namespace GestionPolicial.Domain.Model.Documentos
         {
             
         }
+
     }
 }

@@ -52,6 +52,7 @@
     <Compile Include="Model\Datos.cs" />
     <Compile Include="Model\Detenido.cs" />
     <Compile Include="Model\Documentos\Dni.cs" />
+    <Compile Include="Model\Documentos\DocumentoIdentificacionBase.cs" />
     <Compile Include="Model\Documentos\IDocumentoIdentificacion.cs" />
     <Compile Include="Model\EntityBase.cs" />
     <Compile Include="Model\Motivo.cs" />
@@ -60,6 +61,8 @@
     <Compile Include="Model\Persona.cs" />
     <Compile Include="Model\Policia.cs" />
     <Compile Include="Model\Usuario.cs" />
+    <Compile Include="Properties\Annotations.cs" />
+    <Compile Include="Properties\Annotations1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

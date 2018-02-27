@@ -10,14 +10,21 @@ namespace GestionPolicial.Domain.Model
     /// </summary>
     public class Persona:EntityBase
     {
-       [Column("FechaDeNacimiento", TypeName ="datetime2")]
+        
+        [Column("FechaDeNacimiento", TypeName ="datetime2")]
         public DateTime FechaNacimiento { get; set; }
         public IDocumentoIdentificacion DocumentoIdentificacion { get; set; }
-
+        [Column("Edad", TypeName ="int")]
+        
         public int Edad
         {
             get { return DateTime.Now.Year - FechaNacimiento.Year; }
             set { }
+        }
+
+        public Persona()
+        {
+  
         }
     }
 }

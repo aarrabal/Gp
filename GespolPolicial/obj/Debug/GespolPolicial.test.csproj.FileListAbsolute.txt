@@ -10,3 +10,7 @@ C:\Users\aarrabal\Documents\Visual Studio 2015\Projects\GestionPolicial\GespolPo
 C:\Users\aarrabal\Documents\Visual Studio 2015\Projects\GestionPolicial\GespolPolicial\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\aarrabal\Documents\Visual Studio 2015\Projects\GestionPolicial\GespolPolicial\bin\Debug\EntityFramework.xml
 C:\Users\aarrabal\Documents\Visual Studio 2015\Projects\GestionPolicial\GespolPolicial\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GespolPolicial\bin\Debug\GestionPolicial.Dal.dll
+C:\Users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GespolPolicial\bin\Debug\GestionPolicial.Dal.pdb
+C:\Users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GespolPolicial\bin\Debug\GestionPolicial.App.dll
+C:\Users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GespolPolicial\bin\Debug\GestionPolicial.App.pdb

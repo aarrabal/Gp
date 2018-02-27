@@ -1,4 +1,6 @@
-﻿namespace GestionPolicial.Domain.Model.Documentos
+﻿using System.ComponentModel;
+
+namespace GestionPolicial.Domain.Model.Documentos
 {
 
         public interface IDocumentoIdentificacion

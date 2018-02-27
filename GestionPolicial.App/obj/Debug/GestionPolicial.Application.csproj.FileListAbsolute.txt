@@ -1,0 +1,11 @@
+C:\Users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.App\bin\Debug\GestionPolicial.Application.dll
+C:\Users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.App\bin\Debug\GestionPolicial.Application.pdb
+C:\Users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.App\bin\Debug\GestionPolicial.Dal.dll
+C:\Users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.App\bin\Debug\GestionPolicial.Domain.dll
+C:\Users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.App\bin\Debug\EntityFramework.dll
+C:\Users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.App\bin\Debug\GestionPolicial.Dal.pdb
+C:\Users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.App\bin\Debug\GestionPolicial.Domain.pdb
+C:\Users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.App\bin\Debug\EntityFramework.xml
+C:\Users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.App\obj\Debug\GestionPolicial.Application.csprojResolveAssemblyReference.cache
+C:\Users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.App\obj\Debug\GestionPolicial.Application.dll
+C:\Users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.App\obj\Debug\GestionPolicial.Application.pdb

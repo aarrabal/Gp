@@ -3,3 +3,9 @@ c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionP
 c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.App\obj\Debug\GestionPolicial.App.csprojResolveAssemblyReference.cache
 c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.App\obj\Debug\GestionPolicial.App.dll
 c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.App\obj\Debug\GestionPolicial.App.pdb
+C:\Users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.App\bin\Debug\GestionPolicial.Dal.dll
+C:\Users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.App\bin\Debug\GestionPolicial.Domain.dll
+C:\Users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.App\bin\Debug\EntityFramework.dll
+C:\Users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.App\bin\Debug\GestionPolicial.Dal.pdb
+C:\Users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.App\bin\Debug\GestionPolicial.Domain.pdb
+C:\Users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial.App\bin\Debug\EntityFramework.xml

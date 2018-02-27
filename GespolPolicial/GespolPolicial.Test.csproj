@@ -45,6 +45,7 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
   </ItemGroup>
   <Choose>
@@ -67,7 +68,6 @@
     <Compile Include="EF\DbContextTest.cs" />
     <Compile Include="EF\GestionPolicialContextCustomName.cs" />
     <Compile Include="EF\GestionPolicialContextDefaultName.cs" />
-    <Compile Include="EF\GpContext.cs" />
     <Compile Include="EF\GpContextTest.cs" />
     <Compile Include="GestionPolicialContextConnectionString.cs" />
     <Compile Include="MethodTest.cs" />
@@ -75,6 +75,7 @@
     <Compile Include="Model\PersonaNueva.cs" />
     <Compile Include="Model\Personauno.cs" />
     <Compile Include="Model\PruebaTest.cs" />
+    <Compile Include="UsuarioRepositoryTest.cs" />
     <Compile Include="Repository\RepositoryTest.cs" />
     <Compile Include="Model\DetenidoTest.cs" />
     <Compile Include="Model\DniTest.cs" />
@@ -98,6 +99,14 @@
     <Compile Include="Model\UsuarioTest.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\GestionPolicial.App\GestionPolicial.Application.csproj">
+      <Project>{8DBEC64B-5208-4461-8999-814C935B8F20}</Project>
+      <Name>GestionPolicial.Application</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GestionPolicial.Dal\GestionPolicial.Dal.csproj">
+      <Project>{ED5E9814-2698-456C-B840-0211E6D00209}</Project>
+      <Name>GestionPolicial.Dal</Name>
+    </ProjectReference>
     <ProjectReference Include="..\GestionPolicial.Domain\GestionPolicial.Domain.csproj">
       <Project>{D0A2ADCF-1DC7-4E5C-BE25-42C96313E3DC}</Project>
       <Name>GestionPolicial.Domain</Name>

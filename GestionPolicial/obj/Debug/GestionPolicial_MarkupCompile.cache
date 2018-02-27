@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial\obj\Debug\
+C:\Users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial\obj\Debug\
 GestionPolicial
 none
 false
 DEBUG;TRACE
-c:\users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial\App.xaml
-11151548125
+C:\Users\aarrabal\documents\visual studio 2015\Projects\GestionPolicial\GestionPolicial\App.xaml
+6-1939174063
 
-5-2017746502
-13738642453
-MainWindow.xaml;
+16-1183051872
+18864233218
+Views\AgenteViews.xaml;Views\Alert.xaml;Views\UsersView.xaml;Views\Login.xaml;Views\MainMenu.xaml;MainWindow.xaml;
 
 False
 
